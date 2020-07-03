@@ -12,8 +12,6 @@ public class AdditionClass {
 		
 		System.out.println(c);
 		
-		int x =10;
-		int y = 15;
 		
 	
 		
